@@ -1,0 +1,4 @@
+Task
+Searching data from the DIMES project
+
+The program must find the shortest path between the given list of nodes

@@ -1,0 +1,4 @@
+Task
+
+ASCII 85
+Create a program capable of encoding and decoding data from standard input using the ascii85 algorithm.
